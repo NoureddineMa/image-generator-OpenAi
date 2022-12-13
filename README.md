@@ -6,14 +6,18 @@ Rename the example.env file to .env.
 
 Generate an API KEY at OpenAI and add it to the .env file.
 
-#Install the dependencies
+Install the dependencies
+
+
 
 ```
 $ npm install 
 ```
 
 
-##Run server
+Run server
+
+
 
 ```
 
