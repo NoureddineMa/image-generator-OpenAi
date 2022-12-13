@@ -27,4 +27,6 @@ $ npm run dev
 Visit http://localhost:5000 in your browser.
 
 The endpoint is at POST http://localhost:5000/openai/generateimage.
-![ai](https://user-images.githubusercontent.com/93933264/207322823-05326319-cf31-4c55-b4eb-9792eedcaa06.png)
+
+<img src="https://user-images.githubusercontent.com/93933264/207322823-05326319-cf31-4c55-b4eb-9792eedcaa06.png" width="13%"></img> 
+
