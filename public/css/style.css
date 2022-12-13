@@ -9,7 +9,7 @@
 }
 
 :root {
-  --primary-color: #f9b64d;
+  --primary-color: #FAEAB1;
 }
 
 body {
@@ -51,7 +51,7 @@ body {
 
 /* Showcase */
 .showcase {
-  height: 450px;
+  height: 300px;
   width: 100%;
   background: var(--primary-color);
 }
@@ -75,7 +75,7 @@ body {
 .showcase form input,
 form select {
   font-size: 20px;
-  width: 500px;
+  width: 400px;
   max-width: 500px;
   padding: 1rem;
   border: 1px solid #ccc;
@@ -88,7 +88,7 @@ form button {
   padding: 1rem 2rem;
   border: none;
   border-radius: 5px;
-  background: #333;
+  background: #C58940;
   color: #fff;
   cursor: pointer;
   margin-top: 20px;
